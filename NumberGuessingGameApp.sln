@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGuessingGame", "NumberGuessingGame\NumberGuessingGame.csproj", "{3ABBC45E-9A9B-48EF-B833-FF2B3D63F8EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{30DFAAF4-F89D-425C-9A98-B500508B6B3A}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGuessingGame.UnitTests", "NumberGuessingGame.UnitTests\NumberGuessingGame.UnitTests.csproj", "{545DDCD8-9D21-4D05-B90C-ADF5D5DD790D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ABBC45E-9A9B-48EF-B833-FF2B3D63F8EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ABBC45E-9A9B-48EF-B833-FF2B3D63F8EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ABBC45E-9A9B-48EF-B833-FF2B3D63F8EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ABBC45E-9A9B-48EF-B833-FF2B3D63F8EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{545DDCD8-9D21-4D05-B90C-ADF5D5DD790D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{545DDCD8-9D21-4D05-B90C-ADF5D5DD790D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{545DDCD8-9D21-4D05-B90C-ADF5D5DD790D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{545DDCD8-9D21-4D05-B90C-ADF5D5DD790D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
